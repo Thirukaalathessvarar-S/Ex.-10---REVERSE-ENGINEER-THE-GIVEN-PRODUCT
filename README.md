@@ -31,10 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![244918802-b63378dc-224c-47ab-9261-948618450067](https://github.com/Thirukaalathessvarar-S/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121166390/4b6ab7e5-8648-4f1f-aa6d-4a3d849ecabb)
+![242162866-ee309a68-effc-40b4-893d-19d0b63836c2](https://github.com/Thirukaalathessvarar-S/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121166390/fa970b14-6644-46dc-8050-9c62a3c29fcc)
 
 ### Output:
-![244918811-1c606e12-0e4d-4703-b86d-463bd2ca9dd4](https://github.com/Thirukaalathessvarar-S/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121166390/ecbeed11-2e6f-4a0c-a6a6-bc1fc818d6b4)
+![242162886-25542f11-9bbc-47fb-96f1-9da68dc5725f](https://github.com/Thirukaalathessvarar-S/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121166390/bc2e4128-f07b-4e8f-bccd-835e72e49b37)
 
 ### Name: Thirukaalathessvarar S
 ### Register Number: 212222230161
